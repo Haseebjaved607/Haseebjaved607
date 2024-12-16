@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hi! I’m **[Your Name]**, a passionate software developer and tech enthusiast with a love for building dynamic and efficient applications. My expertise lies in front-end and back-end development, and I enjoy working with modern frameworks and technologies to create seamless user experiences.
+Hi! I’m **Haseeb javed**, a passionate software developer and tech enthusiast with a love for building dynamic and efficient applications. My expertise lies in front-end and back-end development, and I enjoy working with modern frameworks and technologies to create seamless user experiences.
 
 ### 🌟 Quick Facts:
 - **👨‍💻 I specialize in:** Full-Stack Development
