@@ -70,12 +70,14 @@ Hi! I’m **Haseeb Javed**, a passionate software developer and tech enthusiast 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="30" height="30" style="margin: 5px; color: #EA4335;" />
   </a>
 
-  <a href="https://haseeb-portfolio.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
-  </a>
+  
 </div>
 
 ---
+## 📄 Portfolio
+<a href="https://haseeb-portfolio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
+  </a>
 
 ## 📄 Resume
 
