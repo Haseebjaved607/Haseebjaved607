@@ -62,13 +62,11 @@ Hi! I’m **Haseeb Javed**, a passionate software developer and tech enthusiast 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/haseebjaved11/)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin: 5px; color: #0A66C2;" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30" height="30" style="margin: 5px; color: #1DA1F2;" />
-  </a>
-  <a href="mailto:your.email@example.com">
+
+  <a href="mailto:hasiimughal41@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="30" height="30" style="margin: 5px; color: #EA4335;" />
   </a>
 </div>
