@@ -1,6 +1,6 @@
 <!-- Animated Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+[Your+Name]!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+[Haseeb+javed]!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 ---
