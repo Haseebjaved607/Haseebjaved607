@@ -75,7 +75,7 @@ Hi! I’m **Haseeb Javed**, a passionate software developer and tech enthusiast 
 
 ---
 ## 📄 Portfolio
-<a href="https://haseeb-portfolio.com" target="_blank" rel="noopener noreferrer">
+<a href="https://haseebjaved607.github.io/Haseeb-javed-Portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
   </a>
 
