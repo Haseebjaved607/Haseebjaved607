@@ -20,41 +20,17 @@ Hi! I’m **Haseeb Javed**, a passionate software developer and tech enthusiast 
 ## 🛠️ Skills & Technologies
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- Row 1 -->
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
-  </a>
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
-  <!-- Row 2 -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://github.com/tailwindlabs.png" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 10px;" />
-  </a>
+  <!-- All Skills in One Row -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin: 10px;" />
+  <img src="https://github.com/tailwindlabs.png" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 10px;" />
 </div>
 
 ---
@@ -70,14 +46,13 @@ Hi! I’m **Haseeb Javed**, a passionate software developer and tech enthusiast 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="30" height="30" style="margin: 5px; color: #EA4335;" />
   </a>
 
-  
 </div>
 
 ---
 ## 📄 Portfolio
 <a href="https://haseebjaved607.github.io/Haseeb-javed-Portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
-  </a>
+</a>
 
 ## 📄 Resume
 
