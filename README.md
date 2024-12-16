@@ -75,8 +75,6 @@ Hi! I’m **Haseeb Javed**, a passionate software developer and tech enthusiast 
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1HZFRJedAHjVdIT2X3X5NNHkU_eXcWbJ7/view)
-
-> Crafted with ❤️ and a passion for coding!
-
-> Crafted with ❤️ and a passion for coding!
+<a href="https://drive.google.com/file/d/1HZFRJedAHjVdIT2X3X5NNHkU_eXcWbJ7/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive" alt="Resume">
+</a>
